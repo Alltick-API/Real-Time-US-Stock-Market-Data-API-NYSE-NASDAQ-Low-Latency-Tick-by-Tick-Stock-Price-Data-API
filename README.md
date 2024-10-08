@@ -1,61 +1,49 @@
 > [English](./README.md) | [中文](./README_cn.md)
-## Contact Us
-Email: support@alltick.co
 
-Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
 
-Telegram: [https://t.me/alltick001](https://t.me/alltick001)
+# AllTick Real-Time U.S. Stock Market Data API
 
-## Author: AllTick
+### AllTick-Real-Time-US-Stock-Market-Data-API-NYSE-NASDAQ-WebSocket-Low-Latency-Tick-by-Tick
 
-## Project Name: AllTick Real-time Quotation APIs
+Welcome to AllTick's Real-Time U.S. Stock Market Data API, a comprehensive solution for accessing accurate and low-latency stock data from major U.S. exchanges like NYSE and NASDAQ. Whether you're a developer, trader, or financial analyst, this API is built to meet your needs for real-time, tick-by-tick market data.
 
-# Real-time Financial Market Data API, Real-time Forex Data API, Real-time Stock Data API, Real-time Cryptocurrency Data API, Real-time Commodity Data API Service, Real-time Tick Data, Tick-by-Tick Quotes, Data Access Solutions,Real-time stocks, real-time US stocks, real-time Hong Kong stocks.
+## Features
 
-Easy-to-use and user-friendly free open-source stock API, Hong Kong stock API, US stock API, Shanghai and Shenzhen stock API, A-share API, forex API, commodity precious metals API, cryptocurrency API, and other real-time market data.
+- **Real-Time U.S. Stock Data:** Get up-to-the-second stock information for NYSE, NASDAQ, and other major U.S. stock exchanges.
+- **Extensive Symbol Coverage:** Access data for thousands of U.S. stocks, including all major stock indices.
+- **Tick-by-Tick Updates:** The API delivers high-frequency data, pushing every tick in real-time for precise market tracking.
+- **Low-Latency Data:** Our WebSocket API ensures ultra-low latency, averaging just 170 milliseconds for real-time trading applications.
+- **Comprehensive Market Data:** Get U.S. stock prices, quotes, trade volumes, bid/ask spreads, and more.
+
+## Why Choose AllTick?
+
+AllTick offers one of the most powerful solutions for **real-time U.S. stock market data**. With our U.S. stock API, you'll receive accurate, reliable data to power high-frequency trading, algorithmic strategies, and market research. Here’s why AllTick stands out:
+
+### Reliable U.S. Stock Data API
+
+With a **99.95% uptime**, our U.S. stock exchange API ensures that you can rely on consistent data availability.
+
+### Extensive Market Coverage
+
+The API supports a broad range of U.S. stocks, providing data for all symbols across the **NYSE, NASDAQ**, and other exchanges.
+
+### Ultra-Low Latency
+
+Data delivery through WebSocket with an average latency of only **170ms** makes our API ideal for high-frequency trading strategies.
+
+### Tick-by-Tick U.S. Stock Data
+
+Receive real-time U.S. stock quotes and prices for every market tick, fully synchronized with exchange data.
+
+## Use Cases
+- **Real-Time U.S. Stock Price API:** Perfect for applications that need up-to-the-minute U.S. stock prices.
+- **High-Frequency Trading:** Ideal for algorithmic traders requiring instant access to tick-by-tick market data.
+- **Market Analysis:** Use the U.S. stock market data API for in-depth financial analysis and market tracking.
+- **Trading Platforms*:** Seamlessly integrate U.S. stock exchange API data into your trading systems.
 
 ## Official Website
 [https://alltick.co](https://alltick.co)
 
-## Features:
-
-- Free and open source
-
-- Get real-time Hong Kong stock quotes API
-
-- Get real-time 10-level order book API for Hong Kong stocks
-
-- Get K-line data API for Hong Kong stocks
-
-- Get real-time US stock quotes API
-
-- Get real-time Level 1 order book API for US stocks
-
-- Get K-line data API for US stocks
-
-- Get real-time A-share stock quotes API
-
-- Get real-time 5-level order book API for A-share stocks
-
-- Get K-line data API for A-share stocks
-
-- Get real-time cryptocurrency quotes API
-
-- Get real-time multi-level order book API for cryptocurrencies
-
-- Get K-line data API for cryptocurrencies
-
-- Get real-time forex quotes API
-
-- Get real-time 5-level order book API for forex
-
-- Get K-line data API for forex
-
-- Get real-time precious metals quotes API
-
-- Get real-time 5-level order book API for precious metals
-
-- Get K-line data API for precious metals
 
 
 ## Integration Guide
@@ -119,6 +107,8 @@ Email: support@alltick.co
 Skype: [https://join.skype.com/invite/xokTc695huNu](https://join.skype.com/invite/xokTc695huNu)
 
 Telegram: [https://t.me/alltick001](https://t.me/alltick001)
+
+## Author: AllTick
 
 ## Other Works
 Official Website: [https://alltick.co](https://alltick.co)
