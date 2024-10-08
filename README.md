@@ -42,7 +42,7 @@ Receive real-time U.S. stock quotes and prices for every market tick, fully sync
 - **Trading Platforms*:** Seamlessly integrate U.S. stock exchange API data into your trading systems.
 
 ## Official Website
-[https://alltick.co](https://alltick.co)
+[https://alltick.co](https://alltick.co/en-us/)
 
 
 
